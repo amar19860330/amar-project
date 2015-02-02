@@ -1,0 +1,11 @@
+AndroidStudio_SDK	E:\android\sdk
+ANT_HOME		E:\Program Files\apache\apache-ant-1.9.4
+CATALINA_BASE		E:\Program Files\apache\apache-tomcat-7.0.54
+CATALINA_HOME		E:\Program Files\apache\apache-tomcat-7.0.54		
+classpath		.;%JAVA_HOME%/lib/dt.jar;%JAVA_HOME%/lib/tools.jar
+GROOVY_HOME		E:\Program Files\groovy-2.3.3
+JAVA_HOME		C:\Program Files\Java\jdk1.7.0_45
+M2_HOME			E:\Program Files\apache\apache-maven-3.2.1
+M2_REPO			E:/data/maven
+PATH			%JAVA_HOME%/bin;E:\git\bin;E:\Program Files\apache\apache-ant-1.9.4\bin;E:\Program Files\apache\apache-maven-3.2.1\bin;E:\Program Files\groovy-2.3.3\bin;%AndroidStudio_SDK%/tools;%AndroidStudio_SDK%/platform-tools;E:\tools\反编译\apktool1.5.2;E:\tools\Auto-Sign;
+TERM			msys

@@ -1,0 +1,15 @@
+[user]
+	name = sam
+	email = amar19860330@gmail.com
+[core]
+	autocrlf = input
+	safecrlf = false
+	excludesfile = C:\\Users\\Office\\Documents\\gitignore_global.txt
+[difftool "sourcetree"]
+	cmd = 'E:/Program Files/Beyond Compare/BComp.exe' \"$LOCAL\" \"$REMOTE\"
+
+[receive]
+    denyCurrentBranch = ignore
+[mergetool "sourcetree"]
+	cmd = 'E:/Program Files/Beyond Compare/BComp.exe' \"$LOCAL\" \"$REMOTE\" \"$BASE\" \"$MERGED\"
+	trustExitCode = true

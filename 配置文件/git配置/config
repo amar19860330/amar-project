@@ -1,0 +1,11 @@
+host git.oschina.net
+     HostName git.oschina.net
+     Port 22
+     User hsyang
+     IdentityFile /c/Users/Office/.ssh/oschina-amar
+
+host github.com
+     HostName github.com
+     Port 22
+     User amar
+     IdentityFile /c/Users/Office/.ssh/amar-github
